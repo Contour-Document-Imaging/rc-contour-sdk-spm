@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RCContourSDK",
-            url: "https://github.com/Contour-Document-Imaging/rc-contours-example/releases/download/1.0.0-alpha.7/RCContourSDK.xcframework1.0.0-alpha.7.zip",
-            checksum: "fd330b96ce7deda2049ca714ceed26de102f053c1bfe181a66764c985720c586"),
+            url: "https://github.com/Contour-Document-Imaging/rc-contours-example/releases/download/1.0.0/RCContourSDK_1.0.0.xcframework.zip",
+            checksum: "07421b1fe74c95f2cfbf570b89a545eda00531b5419d6d0cd34ca44ca410be11"),
     ]
 )
 
